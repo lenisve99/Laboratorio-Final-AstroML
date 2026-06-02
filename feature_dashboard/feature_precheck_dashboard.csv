@@ -1,0 +1,61 @@
+feature,missing_pct,n_unique,origin,catalog_period_dependent
+I_kurtosis,0.0,6789,Catalogo/base,False
+I_mad,0.0,1000,Catalogo/base,False
+I_mean,0.0,3982,Catalogo/base,False
+I_median,0.0,4381,Catalogo/base,False
+I_p95_p5,0.0,4644,Catalogo/base,False
+I_phot_mad,0.0,1000,Fotometria I/V,False
+I_phot_mean,0.0,6788,Fotometria I/V,False
+I_phot_median,0.0,4381,Fotometria I/V,False
+I_phot_p95_p5,0.0,4644,Fotometria I/V,False
+I_phot_std,0.0,6789,Fotometria I/V,False
+I_phot_weighted_mean,0.0,6789,Fotometria I/V,False
+fourier_A1_I,0.0,6789,Fourier,False
+fourier_A2_I,0.0,6789,Fourier,False
+fourier_A3_I,0.0,6789,Fourier,False
+fourier_A4_I,0.0,6789,Fourier,False
+fourier_R21_I,0.0,6789,Fourier,False
+fourier_R31_I,0.0,6789,Fourier,False
+fourier_R41_I,0.0,6789,Fourier,False
+fourier_chi2_red_I,0.0,6789,Fourier,False
+fourier_model_amp_I,0.0,6789,Fourier,False
+fourier_offset_I,0.0,6789,Fourier,False
+fourier_period_I,0.0,6243,Fourier,False
+fourier_phase_coverage_I,0.0,13,Fourier,False
+fourier_phi1_I,0.0,6789,Fourier,False
+fourier_phi21_I,0.0,6789,Fourier,False
+fourier_phi2_I,0.0,6789,Fourier,False
+fourier_phi31_I,0.0,6789,Fourier,False
+fourier_phi3_I,0.0,6789,Fourier,False
+fourier_phi41_I,0.0,6789,Fourier,False
+fourier_phi4_I,0.0,6789,Fourier,False
+fourier_resid_std_I,0.0,6789,Fourier,False
+fourier_total_amp_I,0.0,6789,Fourier,False
+fourier_var_ratio_I,0.0,6789,Fourier,False
+has_period2,0.0,2,Catalogo/base,True
+ls_frequency_I,0.0,6243,Lomb-Scargle,False
+ls_log_period_I,0.0,6243,Lomb-Scargle,False
+ls_period_I,0.0,6243,Lomb-Scargle,False
+ls_power_I,0.0,6789,Lomb-Scargle,False
+n_obs_I,0.0,193,Catalogo/base,False
+n_obs_I_phot,0.0,193,Fotometria I/V,False
+n_obs_V,0.0,21,Fotometria I/V,False
+I_amp,1.1194579466784504,857,Catalogo/base,False
+log_period,1.1194579466784504,6334,Catalogo/base,True
+ls_log_period_delta_catalog,1.1194579466784504,6712,Lomb-Scargle,True
+ls_period_catalog_ratio,1.1194579466784504,6712,Lomb-Scargle,True
+period,1.1194579466784504,6334,Catalogo/base,True
+V_mean,1.752835469141258,3545,Catalogo/base,False
+V_minus_I,1.752835469141258,3608,Catalogo/base,False
+V_minus_I_phot_mean,44.513183090293126,3767,Fotometria I/V,False
+V_minus_I_phot_median,44.513183090293126,2804,Fotometria I/V,False
+V_minus_I_phot_weighted_mean,44.513183090293126,3767,Fotometria I/V,False
+V_phot_mad,44.513183090293126,664,Fotometria I/V,False
+V_phot_mean,44.513183090293126,3738,Fotometria I/V,False
+V_phot_median,44.513183090293126,2638,Fotometria I/V,False
+V_phot_p95_p5,44.513183090293126,2747,Fotometria I/V,False
+V_phot_std,44.513183090293126,3766,Fotometria I/V,False
+V_phot_weighted_mean,44.513183090293126,3767,Fotometria I/V,False
+log_period2,57.78465164236265,2006,Catalogo/base,True
+period2,57.78465164236265,2006,Catalogo/base,True
+period_ratio,57.78465164236265,2866,Catalogo/base,True
